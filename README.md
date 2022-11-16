@@ -14,7 +14,7 @@
     <h2>nails designer </h2>
     <div>esse site é direcionado para encinar fazer alongamento de unha </div>
 
-    <img src="img.jpg" width="300" height="300">
+    <img src="https://i.pinimg.com/originals/3e/a4/8b/3ea48b33f0b7815cf8f2ea8e075bf129.jpg" width="300" height="300">
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5k3siHuJKOU" 
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
